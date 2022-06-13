@@ -179,9 +179,11 @@ img {
   flex-direction: column;
 }
 /* --------------------контейнер (main page)---------------------- */
+.title {
+  padding: 94px 0px 94px 0px;
+}
 .main-container {
   display: flex;
-  padding: 94px 0px 94px 0px;
 }
 .main-container-item:not(:last-child) {
   max-width: 270px;
@@ -312,7 +314,7 @@ img {
   flex-direction: column;
 }
 .portfolio-filter {
-  margin-bottom: 34px;
+  margin-bottom: 50px;
 }
 .main-portfolio {
   padding: 94px 0 94px 0;
